@@ -1,5 +1,5 @@
 # Balloon-Shooting-Game
- Completed
+ Hi. I am sharing my balloon popping game with you. The game shows the time and how many balloons we popped. Additionally, animation and sound effects occur when the balloon bursts. When the time runs out, the score, replay button and exit game button appear on the screen.
  
 
 ![BallonPopping2](https://github.com/mehmetsabanci/Balloon-Shooting-Game/assets/156480573/9c46d737-28fe-4e63-9a6c-334345a8bf44)
