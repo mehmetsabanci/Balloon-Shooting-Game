@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 39ecab8224b61cf4ca5d69e68d8bb8d5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balloonn_0
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1278
+        width: 318
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560f26f665bf464e92be5035f3013ef
+      internalID: 1237577043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonn_1
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1188
+        width: 419
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fdaa9230b99c44ca933148ec1ed1ba
+      internalID: -1351023987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonn_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 756
+        width: 205
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12628d163eaefa946950c7c5d04e50cc
+      internalID: 374574701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balloonn_3
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 243
+        width: 208
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7d3604a63f3c4d8c4da51d3074cec
+      internalID: -784528191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      balloonn_0: 1237577043
+      balloonn_1: -1351023987
+      balloonn_10: 1202165060
+      balloonn_100: -2124265288
+      balloonn_101: -920294179
+      balloonn_102: 779888903
+      balloonn_11: 200821131
+      balloonn_13: -179679059
+      balloonn_14: 790996154
+      balloonn_15: 1239679932
+      balloonn_16: -713188291
+      balloonn_17: -1184720382
+      balloonn_18: 2046424938
+      balloonn_19: 1456851823
+      balloonn_2: 374574701
+      balloonn_20: -811929332
+      balloonn_21: -1035948847
+      balloonn_22: 1153100012
+      balloonn_23: -1279867378
+      balloonn_24: -1041501551
+      balloonn_25: -239100723
+      balloonn_26: -1310710618
+      balloonn_27: 1332505631
+      balloonn_28: -1469456687
+      balloonn_29: 1334664243
+      balloonn_3: -784528191
+      balloonn_30: 1424748861
+      balloonn_31: 2048900663
+      balloonn_32: 1214972650
+      balloonn_33: -1060011666
+      balloonn_34: -466679989
+      balloonn_35: -445999863
+      balloonn_36: -906131603
+      balloonn_37: -1432226299
+      balloonn_38: -409125266
+      balloonn_39: -861866034
+      balloonn_4: -930125795
+      balloonn_40: 2064088099
+      balloonn_41: 953210730
+      balloonn_42: -1159125724
+      balloonn_43: 441606627
+      balloonn_44: -643688892
+      balloonn_45: 929864308
+      balloonn_46: 1979828209
+      balloonn_47: -1590425583
+      balloonn_48: -113387981
+      balloonn_49: -1318735244
+      balloonn_5: 90371528
+      balloonn_50: 1536425478
+      balloonn_51: -76915507
+      balloonn_52: -1162965693
+      balloonn_53: -109319289
+      balloonn_54: 1053089013
+      balloonn_55: -404493803
+      balloonn_56: 1606085969
+      balloonn_57: 1818340757
+      balloonn_58: 863471221
+      balloonn_59: -1711287591
+      balloonn_6: -682743809
+      balloonn_60: 1139297087
+      balloonn_61: -2146505031
+      balloonn_62: 215584186
+      balloonn_63: 1929278273
+      balloonn_64: -1452678730
+      balloonn_65: -96886459
+      balloonn_66: -1255955167
+      balloonn_67: -241890014
+      balloonn_68: -1763489049
+      balloonn_69: -949517989
+      balloonn_7: -571936849
+      balloonn_70: 2043708491
+      balloonn_71: 377709326
+      balloonn_72: 418818220
+      balloonn_73: -178498941
+      balloonn_74: 202804080
+      balloonn_75: -1374402788
+      balloonn_76: 169313293
+      balloonn_77: 1638968644
+      balloonn_78: -1754426708
+      balloonn_8: 1420265348
+      balloonn_80: 787679118
+      balloonn_81: 1658578427
+      balloonn_82: 1018629618
+      balloonn_83: -1554525745
+      balloonn_84: 1903611835
+      balloonn_85: 999037877
+      balloonn_86: -1904205339
+      balloonn_87: -1953404992
+      balloonn_88: 759612365
+      balloonn_89: 1788433054
+      balloonn_9: 285159293
+      balloonn_90: -1896449992
+      balloonn_91: -1312189526
+      balloonn_92: -1006064849
+      balloonn_93: 1418503803
+      balloonn_94: 1985666722
+      balloonn_95: 1449008925
+      balloonn_96: -2054444729
+      balloonn_97: 60976918
+      balloonn_98: 1396557645
+      balloonn_99: 1387530368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
